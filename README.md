@@ -10,7 +10,7 @@ Images also have two styles, just like links, and both of them render the exact 
 The first image style is called an inline image link. To create an inline image link, enter an exclamation point ( ! ), wrap the alt text in brackets ( [ ] ), and then wrap the link in parenthesis ( ( ) ). (Alt text is a phrase or sentence that describes the image for the visually impaired.)
 <mark style="background-color: yellow">Note: the second link shoud fail, as you will not have a folder called __img__, nor the image file.</mark>
 
-![Final Results]https://raw.githubusercontent.com/digantpatel87/Project2/main/FinalResult.PNG)
+!([Final Results](https://raw.githubusercontent.com/digantpatel87/Project2/main/FinalResult.PNG))
 
 
 ### Extract 
