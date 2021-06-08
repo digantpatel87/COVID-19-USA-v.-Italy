@@ -11,18 +11,27 @@ The image below is a placeholder.
 ![Final Results](https://raw.githubusercontent.com/digantpatel87/Project2/main/FinalResult.PNG)
 
 
+###Steps to code work
+1) Download all the files from git repo.
+2) Create Database using PGAdmin, database name "USvsItalyCOVID20"
+3) Create tables using "TableCreation.sql"
+4) Run "CSVtoJson.ipynb" using Jupyter Notebook to convert US data from csv to Json
+5) Run "Final.ipynb" for cleanup, store to DB and Final output.
+
+
 
 ### Extract 
   • We retrieved data from [COVID-19 in USA](https://www.kaggle.com/sudalairajkumar/covid19-in-usa) and [COVID-19 in Italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy) from Kaggle. 
   
   • The assignment required that we use diverse data sources. To meet this requirement, we converted the USA data set from a CSV to JSON file. 
-
+  • Then, we used Python to extract data from JSON and CSV.  
 
 ### Transform 
-  • Following successful conversion of the USA data set, we cleaned our data and created tables.  
-  • Then, we used Python to extract data from JSON and CSV.
-
+  • Following successful conversion of the USA data set, we cleaned our data for USA and Italy. 
+  
 ### Loading
-
+  • Finally loaded data into Database
+  
 ### Final Results 
 ![Final Results](https://raw.githubusercontent.com/digantpatel87/Project2/main/FinalResult.PNG)
+
