@@ -6,8 +6,6 @@ Group members: Asim Syed, Connor Scherer, Digiant Patel, Stephany Obakpolor, Jes
 Utilizing the datasets listed below, we plan on comparing the Covid-19 rates in the United States versus Italy. The dataset includes information from the onset of the pandemic until December 2020.
 
 ### Visio Diagram
-The image below is a placeholder. 
-
 ![ETL Diagram](https://raw.githubusercontent.com/digantpatel87/Project2/main/ETLDiagram.png)
 
 
