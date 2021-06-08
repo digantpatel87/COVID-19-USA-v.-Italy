@@ -8,7 +8,7 @@ Utilizing the datasets listed below, we plan on comparing the Covid-19 rates in 
 ### Visio Diagram
 The image below is a placeholder. 
 
-![ETL Diagram](https://raw.githubusercontent.com/digantpatel87/Project2/main/ETLDiagram.PNG)
+![ETL Diagram](https://raw.githubusercontent.com/digantpatel87/Project2/main/ETLDiagram.png)
 
 
 ### Step to run code
