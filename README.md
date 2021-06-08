@@ -33,3 +33,5 @@ Utilizing the datasets listed below, we plan on comparing the Covid-19 rates in 
 ### Final Results 
 ![Final Results](https://raw.githubusercontent.com/digantpatel87/Project2/main/FinalResult.PNG)
 
+### Group 11 Presentation Slide Deck
+[Group 11 Presentation Slide Deck] (https://github.com/digantpatel87/Project2/blob/main/Presentation.pdf)
