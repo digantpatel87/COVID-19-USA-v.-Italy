@@ -11,12 +11,12 @@ The image below is a placeholder.
 ![Final Results](https://raw.githubusercontent.com/digantpatel87/Project2/main/FinalResult.PNG)
 
 
-###Steps to code work
+### Step to run code
 1) Download all the files from git repo.
 2) Create Database using PGAdmin, database name "USvsItalyCOVID20"
 3) Create tables using "TableCreation.sql"
 4) Run "CSVtoJson.ipynb" using Jupyter Notebook to convert US data from csv to Json
-5) Run "Final.ipynb" for cleanup, store to DB and Final output.
+5) Run "Final.ipynb" for cleanup, store to DB and Final output. Note: update password in connection string.
 
 
 
