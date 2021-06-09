@@ -2,12 +2,6 @@
 
 Group members: Asim Syed, Connor Scherer, Digiant Patel, Stephany Obakpolor, Jessica Doanes, John Timmers
 
-## Proposal
-Utilizing the datasets listed below, we plan on comparing the Covid-19 rates in the United States versus Italy. The dataset includes information from the onset of the pandemic until December 2020.
-
-### Visio Diagram
-![ETL Diagram](https://raw.githubusercontent.com/digantpatel87/Project2/main/ETLDiagram.png)
-
 
 ### Step to run code
 1) Download all the files from git repo.
@@ -15,6 +9,18 @@ Utilizing the datasets listed below, we plan on comparing the Covid-19 rates in 
 3) Create tables using "TableCreation.sql"
 4) Run "CSVtoJson.ipynb" using Jupyter Notebook to convert US data from csv to Json
 5) Run "Final.ipynb" for cleanup, store to DB and Final output. Note: update password in connection string.
+
+
+
+
+
+## Proposal
+Utilizing the datasets listed below, we plan on comparing the Covid-19 rates in the United States versus Italy. The dataset includes information from the onset of the pandemic until December 2020.
+
+### Visio Diagram
+![ETL Diagram](https://raw.githubusercontent.com/digantpatel87/Project2/main/ETLDiagram.png)
+
+
 
 
 
